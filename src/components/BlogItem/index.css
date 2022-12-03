@@ -1,0 +1,21 @@
+/* Write your CSS code here */
+.list {
+  list-style-type: none;
+}
+.list-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.list-head {
+  color: #12022f;
+  font-size: 20px;
+}
+.list-para2,
+.list-para {
+  color: #9aa5b1;
+}
+.hori {
+  border-top: 1px solid #9aa5b1;
+  width: 100%;
+}

@@ -1,0 +1,18 @@
+/* Write your CSS code here */
+.user-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-direction: center;
+  width: 30%;
+}
+
+.user-container > img {
+  width: 30%;
+}
+.user-heading {
+  font-size: 20px;
+}
+.user-para {
+  font-size: 12px;
+}

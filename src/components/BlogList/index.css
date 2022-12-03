@@ -1,0 +1,7 @@
+/* Write your CSS code here */
+.ul-container {
+  display: flex;
+  flex-direction: column;
+
+  width: 80%;
+}
